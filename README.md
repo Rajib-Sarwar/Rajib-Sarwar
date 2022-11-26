@@ -9,8 +9,7 @@
 <!-- 📫 󠀠󠀠 How to reach me md.rajib.sarwar@gmail.com -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajib-sarwar&show_icons=true&count_private=true" alt="rajib-sarwar" /> 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajib-sarwar&hide=html" alt="rajib-sarwar" /> </p> -->
-
+![Rajib's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajib-sarwar&count_private=true)
 
 
 
