@@ -9,8 +9,7 @@
 <!-- 📫 󠀠󠀠 How to reach me md.rajib.sarwar@gmail.com -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajib-sarwar&show_icons=true&count_private=true" alt="rajib-sarwar" /> 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajib-sarwar&show_icons=true&theme=radical)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rajib-sarwar/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="rajib-sarwar" height="30" width="30" /></a>
