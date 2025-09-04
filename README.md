@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajib-sarwar/rajib-sarwar/main/banner.png" alt="Rajib Sarwar Banner" />
+  <img src="https://raw.githubusercontent.com/rajib-sarwar/rajib-sarwar/main/banner.png" />
 </p>
 <h1 align="center">👋 Hi, I'm Chowdhury Md Rajib Sarwar</h1>
 <h3 align="center">🚀 Senior iOS Developer | Mobile Solutions Architect</h3>
