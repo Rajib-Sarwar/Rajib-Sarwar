@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/qibrah/id6758562594">
-    <img height="50" src="https://img.shields.io/badge/Download_on_the-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store" />
+    <img height="120" src="https://img.shields.io/badge/Download_on_the-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store" />
   </a>
 </p>
 
