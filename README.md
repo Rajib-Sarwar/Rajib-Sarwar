@@ -1,82 +1,80 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajib-sarwar/rajib-sarwar/main/banner.png" alt="Profile Banner" />
-</p>
+# Chowdhury Md Rajib Sarwar
 
-<h1 align="center">Chowdhury Md Rajib Sarwar</h1>
-<h3 align="center">Senior Mobile Solutions Architect | iOS & Android</h3>
+### Senior iOS Engineer · Swift, SwiftUI & UIKit
 
-<p align="center">
-  <b>Architecting scalable mobile ecosystems, automating CI/CD pipelines, and modernizing legacy codebases.</b><br>
-  I specialize in transforming monolithic architectures into highly maintainable, multi-variant mobile platforms across iOS and Android, bridging the gap between native development and robust DevOps practices.
-</p>
+I build dependable mobile apps for enterprise and consumer products. Over **10+ years**, my work has spanned fleet operations, payments, retail SDKs, connected cameras, and independently shipped iOS apps. I specialize in **offline synchronization, mobile architecture, legacy modernization, and performance**.
 
----
+At **Limosys**, I lead mobile architecture for a white-label ecosystem of **200+ apps**. I replaced hard-coded configuration with a server-driven pipeline that reduced new-client deployment steps from **20 to 5—a 75% reduction**.
 
-### 🕋 Featured Indie Project: [Qibrah](https://apps.apple.com/us/app/qibrah/id6758562594)
+[Portfolio](https://rajib-sarwar.github.io/) · [One-page resume](https://rajib-sarwar.github.io/Rajib_Sarwar_Resume.pdf) · [LinkedIn](https://linkedin.com/in/rajib-sarwar) · [Email](mailto:md.rajib.sarwar@gmail.com)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajib-sarwar/rajib-sarwar/main/qibrah-banner.png" alt="Qibrah App Banner" width="800" />
-</p>
+## Award-winning project
 
-<p align="center">
-  <a href="https://apps.apple.com/us/app/qibrah/id6758562594">
-    <img height="120" src="https://img.shields.io/badge/Download_on_the-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store" />
-  </a>
-</p>
+**2023 Technology Innovation Award — NJLA CUS/ACRL-NJ**  
+**DANA mobile apps · New Jersey Institute of Technology**
 
-Qibrah is a comprehensive, production-grade iOS application that showcases advanced native capabilities, high-performance rendering, and modern declarative design. 
+I led iOS, Android, and UI/UX contributors from concept to launch of the DANA mobile apps for the Digital Archive of Newark Architecture. The project received the 2023 Technology Innovation Award, recognizing the NJIT team's work.
 
-* **Architecture & State Management:** Architected entirely with **SwiftUI** and modern reactive frameworks (**Combine, async/await**), establishing robust data flow and state management for complex, data-heavy interfaces.
-* **Custom UI & Advanced Layouts:** Engineered highly customized, dynamic UI components—including complex flow layouts and dynamic Right-to-Left (RTL) rendering engines—overcoming standard framework limitations to deliver pixel-perfect designs.
-* **Hardware & Framework Integration:** Integrated advanced iOS capabilities, including **AVAudioEngine** and **SFSpeechRecognizer**, to build real-time, highly responsive interactive features with seamless hardware synchronization.
-* **Performance Optimization:** Optimized app footprint by implementing efficient data decoding, caching strategies, and structured concurrency to ensure smooth 60fps scrolling on complex list views.
+[Official award record](https://www.njla.org/njal-awards) · [My role and engineering contributions](https://rajib-sarwar.github.io/#dana)
 
----
+## Selected engineering work
 
-### 🚀 Core Engineering Prowess
+### Limosys LLC · Senior Software Engineer, iOS
+*Jan 2023–Present · Englewood Cliffs, NJ*
 
-As a Senior Engineer, my focus extends beyond UI implementation into full-scale mobile system architecture, concurrency, and platform security.
+- **Simplified deployment across 200+ apps:** replaced hard-coded configuration with a server-driven pipeline, reducing new-client deployment steps by 75%.
+- **Modernized the iOS architecture:** migrated Objective-C MVC monoliths into modular Swift MVVM components, integrated WKWebView JavaScript bridges, and centralized client assets in Amazon S3.
+- **Made driver workflows resilient:** built offline persistence and background synchronization for GPS records and signature captures; partnered with Worldpay engineers to unblock Bluetooth triPOS payments.
+- **Current work:** designing a GraphHopper/Hazelcast map-matching pipeline for 10-second GPS updates. Also built an Android counterpart with Kotlin, Jetpack Compose, and MVVM.
 
-* **iOS Architecture & Modernization:** Spearheading migrations from legacy UIKit to **SwiftUI**, building reactive, state-driven interfaces using MVVM and Clean Architecture.
-* **Android Build Systems & DevOps:** Architecting multi-dimensional build variants using **Gradle Kotlin DSL**. Engineering matrix-strategy **GitHub Actions pipelines** and **Fastlane** for automated concurrent builds, dynamic cryptographic signing, and zero-touch deployments.
-* **Dependency & Scale Management:** Resolving complex multi-variant dependency conflicts, utilizing Swift Package Manager (SPM) for iOS modularization, and isolating SDK-specific components to support extensive white-label applications.
-* **Complex Integrations:** Building advanced GPS routing solutions (**GraphHopper, CoreLocation**) and optimizing secure, low-latency payment systems (**Payrix, Apple Pay, Google Pay, NFC hardware integrations**).
+[LSN Driver on the App Store](https://apps.apple.com/us/app/lsn-driver/id1629740207)
 
----
+### New Jersey Institute of Technology · Mobile Programmer / Team Lead
+*Sep 2021–Dec 2022 · Newark, NJ*
 
-### 🛠️ Technical Ecosystem
+- Led delivery of the **award-winning DANA mobile apps**, connecting 3 external APIs with university systems to power 4 location-aware features.
+- Mentored developers on UIKit, memory management, and state preservation; translated university stakeholders' requirements into mobile architecture.
 
-**🍎 iOS Stack** `Swift` `Objective-C` `SwiftUI` `UIKit` `Combine` `async/await` `AVFoundation` `CoreLocation` `SPM` 
+### Affle (acquired Shoffr) · Engineering Manager, Mobile
+*Jan 2017–Sep 2021 · Singapore / Bengaluru, India*
 
-**🤖 Android Stack** `Kotlin` `Java` `Jetpack Compose` `Coroutines` `Room` `Hilt / Dagger` `KSP` `Gradle KTS`
+- Led mobile architecture and iOS delivery for Shoffr, building offline sync and retailer messaging for inventory discovery and in-store footfall attribution.
+- Designed and deployed the Vizury mobile SDK with background processing and offline caching to capture behavior and ad impressions within battery and CPU constraints.
 
-**⚙️ DevOps, Architecture & Backend** `GitHub Actions` `Fastlane` `Xcode Cloud` `Play App Signing` `MVVM` `Clean Architecture` `Firebase` `Spring Boot` `MongoDB` `REST APIs`
+### AnyConnect · Software Engineer, iOS
+*Oct 2014–Jul 2016 · Dhaka, Bangladesh / Singapore*
 
----
+- Stabilized Philips uGrow video streaming by fixing A/V rendering and memory issues and improving XMPP/raw-socket connections to IoT cameras.
+- Restored **60 fps UI performance** by moving work off the main thread; earned promotion and relocation from Dhaka to Singapore.
 
-### 💼 Featured Engineering Impact
+## Independently built and shipped
 
-* **Limosys LLC (Senior Software Engineer):** Architected the core mobile infrastructure powering ride-sharing applications used by 200+ companies. Optimized complex payment gateways (Apple Pay/NFC) and dynamic routing algorithms, significantly reducing transaction failures and crash rates.
-* **Multi-Variant App Ecosystems:** Built dynamic routing and centralized utility structures leveraging `BuildConfig` generation and iOS target configurations to handle diverse application logic across multiple active build flavors.
-* **NJIT Dana Project (Team Lead):** Directed a cross-functional engineering team to transform a sprawling digital archive system into high-performing native mobile applications.
-* **Affle Vizury SDK (Engineering Manager):** Scaled mobile SDK solutions for commerce marketing, optimizing push notification delivery, payload handling, and background processing.
+### [Qibrah — available on the App Store](https://apps.apple.com/us/app/qibrah/id6758562594)
 
----
+An iOS app for prayer times, Qibla direction, and Quran reading and listening. I designed, built, and launched it independently.
 
-### 📊 GitHub Analytics
+- **SwiftUI + MVVM:** state-driven interfaces with local persistence for offline reading progress and bookmarks.
+- **AVFoundation + Live Activities:** audio playback and an ongoing playback experience beyond the app screen.
+- **Apple Speech:** on-device speech recognition with a custom algorithm to synchronize text highlighting with audio progression.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajib-sarwar&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=FA7343&icon_color=FA7343" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajib-sarwar&theme=transparent&hide_border=true&fire=FA7343&ring=FA7343" height="160px"/>
-</p>
+[![Qibrah app preview](https://raw.githubusercontent.com/Rajib-Sarwar/rajib-sarwar.github.io/main/qibrah_banner.png)](https://apps.apple.com/us/app/qibrah/id6758562594)
 
----
+## Technical focus
 
-### 🤝 Let’s Connect
+| Area | Technologies and practices |
+| --- | --- |
+| Native mobile | Swift, Objective-C, SwiftUI, UIKit, Kotlin, Jetpack Compose, C++ interoperability |
+| Architecture and data | MVVM, dependency injection, offline synchronization, Core Data, REST APIs |
+| Concurrency and performance | Swift Concurrency, GCD, Xcode Instruments, memory management, crash analysis |
+| Integrations and quality | Core Location, AVFoundation, Apple Speech, Bluetooth SDKs, XCTest, XCUITest, CI/CD |
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rajib-sarwar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/2372899/chowdhury-md-rajib-sarwar"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" /></a>
-  <a href="https://medium.com/@chowdhuryrajib"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="mailto:md.rajib.sarwar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+## Education
+
+- **MS in Computer Science**, New Jersey Institute of Technology · Dec 2022
+- **BS in Computer Science**, Ahsanullah University of Science and Technology · Aug 2014
+
+## Let's connect
+
+I'm interested in senior iOS engineering opportunities where I can own architecture, improve reliability, and help a team ship useful products—including mobile experiences for AI-powered products.
+
+[Email](mailto:md.rajib.sarwar@gmail.com) · [LinkedIn](https://linkedin.com/in/rajib-sarwar) · [Portfolio](https://rajib-sarwar.github.io/) · [Stack Overflow](https://stackoverflow.com/users/2372899/chowdhury-md-rajib-sarwar) · [Writing](https://medium.com/@chowdhuryrajib)
