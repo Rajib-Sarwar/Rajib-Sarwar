@@ -25,7 +25,8 @@ I led iOS, Android, and UI/UX contributors from concept to launch of the DANA mo
 - **Lead mobile technical direction:** translate client needs into delivery plans, mentor engineers, and coordinate mobile and platform teams on release priorities.
 - **Simplified deployment across 200+ apps:** replaced hard-coded configuration with a server-driven pipeline, reducing new-client deployment steps by 75%.
 - **Modernized the iOS architecture:** migrated Objective-C MVC monoliths into modular Swift MVVM components, integrated WKWebView JavaScript bridges, and centralized client assets in Amazon S3.
-- **Made driver workflows resilient:** built offline persistence and background synchronization for GPS records and signature captures; partnered with Worldpay engineers to unblock Bluetooth triPOS payments.
+- **Made driver workflows resilient:** built offline persistence and background synchronization to preserve GPS records and signature captures during network outages.
+- **Expanded payment options:** integrated Apple Pay and Google Pay; partnered with Worldpay engineers to diagnose Bluetooth triPOS SDK failures and add diagnostic logging, unblocking in-car payment deployment.
 - **Current work:** designing a GraphHopper/Hazelcast map-matching pipeline for 10-second GPS updates. Also built an Android counterpart with Kotlin, Jetpack Compose, and MVVM.
 
 [LSN Driver on the App Store](https://apps.apple.com/us/app/lsn-driver/id1629740207)
