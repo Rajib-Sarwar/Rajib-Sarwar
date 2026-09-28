@@ -1,10 +1,10 @@
 # Chowdhury Md Rajib Sarwar
 
-### Senior iOS Engineer · Swift, SwiftUI & UIKit
+### Senior iOS Engineer · Mobile Architecture & Technical Leadership
 
 I build dependable mobile apps for enterprise and consumer products. Over **10+ years**, my work has spanned fleet operations, payments, retail SDKs, connected cameras, and independently shipped iOS apps. I specialize in **offline synchronization, mobile architecture, legacy modernization, and performance**.
 
-At **Limosys**, I lead mobile architecture for a white-label ecosystem of **200+ apps**. I replaced hard-coded configuration with a server-driven pipeline that reduced new-client deployment steps from **20 to 5—a 75% reduction**.
+At **Limosys**, I lead mobile technical direction for a transportation SaaS platform and a white-label ecosystem of **200+ apps**. I translate client requirements into delivery plans, mentor engineers, and align mobile and platform teams on release priorities. I replaced hard-coded configuration with a server-driven pipeline that reduced new-client deployment steps from **20 to 5—a 75% reduction**.
 
 [Portfolio](https://rajib-sarwar.github.io/) · [One-page resume](https://rajib-sarwar.github.io/Rajib_Sarwar_Resume.pdf) · [LinkedIn](https://linkedin.com/in/rajib-sarwar) · [Email](mailto:md.rajib.sarwar@gmail.com)
 
@@ -22,6 +22,7 @@ I led iOS, Android, and UI/UX contributors from concept to launch of the DANA mo
 ### Limosys LLC · Senior Software Engineer, iOS
 *Jan 2023–Present · Englewood Cliffs, NJ*
 
+- **Lead mobile technical direction:** translate client needs into delivery plans, mentor engineers, and coordinate mobile and platform teams on release priorities.
 - **Simplified deployment across 200+ apps:** replaced hard-coded configuration with a server-driven pipeline, reducing new-client deployment steps by 75%.
 - **Modernized the iOS architecture:** migrated Objective-C MVC monoliths into modular Swift MVVM components, integrated WKWebView JavaScript bridges, and centralized client assets in Amazon S3.
 - **Made driver workflows resilient:** built offline persistence and background synchronization for GPS records and signature captures; partnered with Worldpay engineers to unblock Bluetooth triPOS payments.
@@ -75,6 +76,6 @@ An iOS app for prayer times, Qibla direction, and Quran reading and listening. I
 
 ## Let's connect
 
-I'm interested in senior iOS engineering opportunities where I can own architecture, improve reliability, and help a team ship useful products—including mobile experiences for AI-powered products.
+I'm interested in Senior, Staff, and Lead Mobile Engineer opportunities in New York City, with a focus on iOS architecture, technical leadership, performance, and reliable product delivery. My growing interest in on-device AI builds on this production mobile experience.
 
 [Email](mailto:md.rajib.sarwar@gmail.com) · [LinkedIn](https://linkedin.com/in/rajib-sarwar) · [Portfolio](https://rajib-sarwar.github.io/) · [Stack Overflow](https://stackoverflow.com/users/2372899/chowdhury-md-rajib-sarwar) · [Writing](https://medium.com/@chowdhuryrajib)
