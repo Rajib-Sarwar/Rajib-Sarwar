@@ -32,7 +32,7 @@ I led iOS, Android, and UI/UX contributors from concept to launch of the DANA mo
 [LSN Driver on the App Store](https://apps.apple.com/us/app/lsn-driver/id1629740207)
 
 ### New Jersey Institute of Technology · Mobile Programmer / Team Lead
-*Sep 2021–Dec 2022 · Newark, NJ*
+*Jan 2022–Dec 2022 · Newark, NJ*
 
 - Led delivery of the **award-winning DANA mobile apps**, connecting 3 external APIs with university systems to power 4 location-aware features.
 - Mentored developers on UIKit, memory management, and state preservation; translated university stakeholders' requirements into mobile architecture.
