@@ -38,7 +38,7 @@ I led iOS, Android, and UI/UX contributors from concept to launch of the DANA mo
 - Mentored developers on UIKit, memory management, and state preservation; translated university stakeholders' requirements into mobile architecture.
 
 ### Affle (acquired Shoffr) · Engineering Manager, Mobile
-*Jan 2017–Sep 2021 · Singapore / Bengaluru, India*
+*Jan 2017–Aug 2021 · Singapore / Bengaluru, India*
 
 - Led mobile architecture and iOS delivery for Shoffr, building offline sync and retailer messaging for inventory discovery and in-store footfall attribution.
 - Designed and deployed the Vizury mobile SDK with background processing and offline caching to capture behavior and ad impressions within battery and CPU constraints.
@@ -72,7 +72,7 @@ An iOS app for prayer times, Qibla direction, and Quran reading and listening. I
 
 ## Education
 
-- **MS in Computer Science**, New Jersey Institute of Technology · Dec 2022
+- **MS in Computer Science**, New Jersey Institute of Technology · Sep 2021–Dec 2022
 - **BS in Computer Science**, Ahsanullah University of Science and Technology · Aug 2014
 
 ## Let's connect
